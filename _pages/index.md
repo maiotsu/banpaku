@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "万博"
 author: default
 permalink: /
 ---
