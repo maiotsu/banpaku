@@ -1,11 +1,11 @@
 ---
-title: "万博"
-author: default
+title: "万博観光案内"
+author: 舞乙
 permalink: /
 ---
 
 
-こんばんは
+
 
 
 
@@ -23,7 +23,7 @@ permalink: /
 改行は、行末に半角スペースを2個いれる
 次の行
 
-[リンク](https://www.google.co.jp/)
+[リンク](https://www.instagram.com/maiotsuheitei?igsh=amwwZWQwaHhlamtu&utm_source=qr）
 
 **太字**
 
