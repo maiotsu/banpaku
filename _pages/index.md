@@ -46,4 +46,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/assets/IMG_2303.jpeg)
+![image](/assets/images/IMG_2303.jpeg)
